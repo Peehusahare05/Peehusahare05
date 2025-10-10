@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+MONGO_URL=mongodb+srv://user:passpass123123@cluster0.jjkjhqf.mongodb.net/spp
+JWT_SECRET=123
+JWT_REFRESH_SECRET=123
+PORT=9001
+HOST=0.0.0.0
+REFRESH_TOKEN_SECRET=SFDF
+REFRESH_TOKEN_EXPIRY=7d
+ACCESSS_TOKEN_EXPIRY=15m

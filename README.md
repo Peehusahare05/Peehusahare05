@@ -22,3 +22,8 @@ HOST=0.0.0.0
 REFRESH_TOKEN_SECRET=SFDF
 REFRESH_TOKEN_EXPIRY=7d
 ACCESSS_TOKEN_EXPIRY=15m
+
+
+mongodb+srv://peehusahare05:Peehu@456@cluster0.qltkf7v.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+github_token = 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
